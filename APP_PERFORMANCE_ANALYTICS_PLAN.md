@@ -6,7 +6,7 @@ Implement LambdaTest-style App Performance Analytics for real-time monitoring du
 
 ---
 
-## 📊 What LambdaTest Offer
+## 📊 What LambdaTest Offe
 
 ### Performance Metrics Tracked
 
