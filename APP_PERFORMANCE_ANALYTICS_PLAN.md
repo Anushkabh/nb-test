@@ -1,12 +1,12 @@
 # App Performance Analytics Implementation Plan
 
-## 🎯 Goal
+## Goal
 
 Implement LambdaTest-style App Performance Analytics for real-time monitoring during Appium test execution.
 
 ---
 
-## 📊 What LambdaTest Offe
+## 📊 What LambdaTest Offers
 
 ### Performance Metrics Tracked
 
