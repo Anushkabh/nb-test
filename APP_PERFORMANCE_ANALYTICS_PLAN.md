@@ -1,4 +1,4 @@
-# App Performance Analytics Implementation Plan
+# App Performance Analytics Implementation Plans
 
 ## Goal
 
